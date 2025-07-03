@@ -10,7 +10,7 @@ const SuperQuality = () => {
       <div className="flex flex-1 flex-col">
         <h2 className="mt-10 font-palanquin text-4xl capitalize font-bold lg:max-w-lg">
           We Provide You
-          <span className="text-coral-red">Super</span>
+          <span className="text-coral-red"> Super</span>
           <span className="text-coral-red">Quality</span>
         </h2>
         <p className="mt-4 lg:max-w-lg info-text">
